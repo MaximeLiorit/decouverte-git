@@ -1,6 +1,6 @@
 int main(void)
 {
-  printf("Heyyyy toi\n");
+  printf("Heyyyy toto\n");
   printf("Hello\n");
   return 0;
 }
